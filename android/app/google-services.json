@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697599783110",
+    "project_id": "epsilonflutter",
+    "storage_bucket": "epsilonflutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697599783110:android:f0f46d5656c1542feae7c7",
+        "android_client_info": {
+          "package_name": "com.example.epsilon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYWmH6ktzNcDqjJKMsU-Lxj_2ydSIj78w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

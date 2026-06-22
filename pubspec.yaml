@@ -1,0 +1,30 @@
+name: flutter_supabase_app
+description: Application Flutter avec authentification Supabase et upload de fichiers
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^4.10.0
+  firebase_auth: ^6.5.2
+  firebase_storage: ^13.4.2
+  cloud_firestore: ^6.5.0
+  file_picker: ^8.0.0+1
+  mime: ^2.0.0
+  path: ^1.9.0
+  flutter_dotenv: ^6.0.1
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - .env
